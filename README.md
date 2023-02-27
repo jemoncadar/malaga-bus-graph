@@ -1,5 +1,5 @@
 # malaga-bus-graph
-Analysis of bus public transport in Malaga using graphs. Project developed for the subject Learning from Networks, 2022-23 university of Padova.
+Analysis of bus public transport in Malaga using graphs. Project developed for the subject Learning from Networks, 2022-23, University of Padova.
 
 ## 1. Motivation
 The motivation for this project was to analyze some of the main features of the bus public transport system of the city of Málaga, Spain using networks. Particularly, its frequency and speed. This analysis has taken place by creating a graph data structure with all the information about bus lines, stops, routes, and timetables… and extracting interesting characteristics from it using graph algorithms.
