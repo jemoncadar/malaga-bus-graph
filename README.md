@@ -10,7 +10,7 @@ The initial objectives were seven, currently, we have completed four of them: (1
 ## 3. Results
 In a nutshell, we have discovered which are the more relevant bus stops in Málaga, in terms of closeness and betweenness centrality. For this, we have created a huge graph with multiple and directed edges. The information obtained has been contrasted with the characteristics of the city and its public transport. We have also proved that the centrality measures obtained are significant, by computing the same measures on random graphs and calculating some measures of significance.
 
-In order to check that everything was working with the graph generated we displayed it graphically. This representation resembles fairly well the Málaga map, is the following:
+In order to check that the graph was successfully created we displayed it graphically. This representation resembles fairly well the Málaga map, is the following:
 ![Line-based representation for our graph](drawings/line_based.png?raw=true "Line-based representation for our graph")
 
 ## 4. Localization
